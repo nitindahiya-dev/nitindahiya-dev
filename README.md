@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,7 +44,7 @@
 
 
 
-  ## 🛠️ My Skills
+## 🛠️ My Skills
 -------------------
 ### Programming languages:
 &emsp;
@@ -88,7 +87,10 @@
 ### Databases:
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?logo=MongoDB)
-
+![Prisma](https://img.shields.io/badge/-Prisma-000?logo=Prisma)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?logo=PostgreSQL)
+![Drizzle](https://img.shields.io/badge/-Drizzle-000?logo=Drizzle)
+![Firebase](https://img.shields.io/badge/-Firebase-000?logo=Firebase)
 
 
 <p align = "center">
