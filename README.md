@@ -1,7 +1,37 @@
 
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nitin</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake 
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+-->
+
+<!--h2 without bottom border
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
+-->
+
+
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
- <img align="right" src="https://camo.githubusercontent.com/37438bafd096e5ab81eb3dabd2744c384bd613a81e706251f4d17ab2738b1113/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578624764304e324a71596d46784e326c334d6d46354e4768334e6d64304f586b324d7a46714f476335593278776133677a597a526d4e535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f4c3539614b4943324d4679665566727a336e2f67697068792e676966" width = 250px>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 
 <br>
 
@@ -90,3 +120,5 @@
 
 <p>Total visitors till now 👇❤️</p>
 <img src="https://profile-counter.glitch.me/nitindahiya199/count.svg">
+
+
